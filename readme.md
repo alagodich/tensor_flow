@@ -2,9 +2,9 @@
 
 https://docs.python.org/3/tutorial/venv.html  
 To create  
-```python3 -m venv django-save-manager-venv```  
+```python3 -m venv tensor_flow/venv```  
 To activate  
-```source  django-save-manager-venv/bin/activate.fish```
+```source venv/bin/activate.fish```
 
 ### Package manager
 To install all saved requirements
